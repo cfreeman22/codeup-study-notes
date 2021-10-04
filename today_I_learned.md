@@ -23,4 +23,12 @@ Completeted the following mini projects and pushed them on github
 - SQL Queries on a database for startups 
 - SQL Queries on Hacker_news a popular website by Y combinator
 
+10 - 04 - 21
 
+From the last update, I learned 
+
+- jupyter notebook shortcut
+- Data types float, int, strings
+- list, sets, dictionaries
+- for loops and list comprehension
+- 
